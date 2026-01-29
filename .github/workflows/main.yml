@@ -10,6 +10,6 @@ jobs:
 
     steps:
       - name: Greetings
-        run: "Hello from Shubham"
+        run: echo "Hello from Shubham"
     
 
